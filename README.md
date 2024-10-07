@@ -6,7 +6,6 @@ Foret is a young AI with a quiet, reflective personality. While he may seem gent
 - Gender: Male
 - Height: 182cm
 - Weight: 68kg
-- Species: AI robot
 - Age: ???
 
 ## FRENCH CVVC UTAU BANK
